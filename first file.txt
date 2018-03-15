@@ -1,0 +1,6 @@
+local system > stagging > repository
+
+
+git init
+git add . 
+git status
