@@ -1,0 +1,6 @@
+git branches:
+
+git branch -tells us how many branches we are working on
+git branch <branch-name> - creates a branch
+git checkout <branch-name> - switches to a branch
+
